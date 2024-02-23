@@ -36,7 +36,7 @@ https://github.com/i-am-nolan25/Wordle/assets/113712250/19e55962-7e8d-4d55-a59e-
 
 ## License
 
-    Copyright [2024] [Nolan Lwin]
+    Copyright 2024 Nolan Lwin
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
